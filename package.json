@@ -1,0 +1,22 @@
+{
+  "name": "labrada",
+  "version": "1.0.0",
+  "description": "Set of performace measure functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlabrada71/labrada.git"
+  },
+  "keywords": [
+    "performace"
+  ],
+  "author": "Juan Labrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlabrada71/labrada/issues"
+  },
+  "homepage": "https://github.com/jlabrada71/labrada#readme"
+}
